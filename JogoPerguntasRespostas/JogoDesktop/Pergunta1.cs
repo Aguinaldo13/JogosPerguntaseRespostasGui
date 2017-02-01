@@ -16,5 +16,20 @@ namespace JogoDesktop
         {
             InitializeComponent();
         }
+
+        private void Proxima_Click(object sender, EventArgs e)
+        {
+            if (rdbResposta2.Checked == true) 
+
+            { MessageBox.Show("ACERTOU" );
+
+            }
+            else
+            {
+                MessageBox.Show("Errou");
+
+            }
+            
+        }
     }
 }

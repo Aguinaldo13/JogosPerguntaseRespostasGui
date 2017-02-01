@@ -40,7 +40,7 @@
             this.txtNome.Name = "txtNome";
             this.txtNome.Size = new System.Drawing.Size(286, 29);
             this.txtNome.TabIndex = 1;
-            this.txtNome.Text = "Digite seu nome";
+            this.txtNome.Text = "G";
             this.txtNome.Enter += new System.EventHandler(this.txtNome_Enter);
             this.txtNome.Leave += new System.EventHandler(this.txtNome_Leave);
             // 
